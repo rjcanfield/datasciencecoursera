@@ -1,4 +1,0 @@
-datasciencecoursera
-===================
-
-For the course
